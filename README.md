@@ -1,4 +1,4 @@
-# CE UI
+# CE GUI
 
 A declarative, cross-platform GUI framework for C++ built on SDL3. Inspired by modern frameworks like Flutter and Jetpack Compose, it enables building elegant and responsive user interfaces for games, tools, and embedded applications.
 
