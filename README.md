@@ -4,7 +4,7 @@ A declarative, cross-platform GUI framework for C++ built on SDL3. Inspired by m
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![SDL3](https://img.shields.io/badge/SDL-3.0-7a1dad?logo=SDL)](https://www.libsdl.org/)
-**// TODO: Add Build Status Badge**
+**
 
 ---
 
@@ -21,9 +21,9 @@ A declarative, cross-platform GUI framework for C++ built on SDL3. Inspired by m
 ## 🚀 Quick Start
 
 ### Prerequisites
-- C++20 compiler
+- C++17 compiler
 - [SDL3](https://github.com/libsdl-org/SDL)
-- [CE Engine](https://github.com/your-username/ce-engine) (for full integration) or use standalone.
+- [CE Engine](https://github.com/CasEverling/ce-engine) (for full integration) or use standalone.
 
 ### Clone & Build
 ```bash
