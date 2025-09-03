@@ -4,7 +4,6 @@ A declarative, cross-platform GUI framework for C++ built on SDL3. Inspired by m
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![SDL3](https://img.shields.io/badge/SDL-3.0-7a1dad?logo=SDL)](https://www.libsdl.org/)
-**
 
 ---
 
